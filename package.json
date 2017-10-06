@@ -14,6 +14,14 @@
     "type": "git",
     "url": "git+https://github.com/MIKUScallion/latest-createjs.git"
   },
+  "keywords": [
+    "createjs",
+    "latest-createjs",
+    "easeljs",
+    "tweenjs",
+    "soundjs",
+    "preloadjs"
+  ],
   "author": "MIKUScallion<MIKUScallion@icloud.com>",
   "license": "MIT",
   "bugs": {
