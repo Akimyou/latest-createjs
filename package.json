@@ -1,0 +1,22 @@
+{
+  "name": "latest-createjs",
+  "version": "0.8.2",
+  "description": "Install latest createJS by npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MIKUScallion/latest-createjs.git"
+  },
+  "author": "MIKUScallion<MIKUScallion@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MIKUScallion/latest-createjs/issues"
+  },
+  "homepage": "https://github.com/MIKUScallion/latest-createjs#readme"
+}

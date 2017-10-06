@@ -1,0 +1,12 @@
+[submodule "submodules/EaselJS"]
+	path = submodules/EaselJS
+	url = https://github.com/CreateJS/EaselJS.git
+[submodule "submodules/TweenJS"]
+	path = submodules/TweenJS
+	url = https://github.com/CreateJS/TweenJS.git
+[submodule "submodules/SoundJS"]
+	path = submodules/SoundJS
+	url = https://github.com/CreateJS/SoundJS.git
+[submodule "submodules/PreloadJS"]
+	path = submodules/PreloadJS
+	url = https://github.com/CreateJS/PreloadJS.git
