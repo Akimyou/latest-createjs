@@ -1,6 +1,6 @@
 {
   "name": "latest-createjs",
-  "version": "0.8.2",
+  "version": "0.8.21",
   "description": "Install latest createJS by npm",
   "main": "index.js",
   "scripts": {
