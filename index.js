@@ -1,4 +1,4 @@
-require('./lib/easeljs/easeljs-0.8.2.combined.js')
-require('./lib/tweenjs/tweenjs-0.6.2.combined.js')
-require('./lib/soundjs/soundjs-0.6.2.combined.js')
-require('./lib/preloadjs/preloadjs-0.6.2.combined.js')
+require('./lib/easeljs/easeljs.js')
+require('./lib/tweenjs/tweenjs.js')
+require('./lib/soundjs/soundjs.js')
+require('./lib/preloadjs/preloadjs.js')
