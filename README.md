@@ -1,10 +1,14 @@
 # latest-createjs
 Install latest createJS by npm
 
+## Quick fix
+
+*   Fix [SoundJS's AbstractPlugin.js had a set method problem, At version 1.0.0](https://github.com/CreateJS/SoundJS/issues/281)
+
 ## About version
 
 *   This package's version was followed with [CreateJS/EaselJS][1]
-*   This package's current version is [1.0.2][2], included [easeljs-1.0.2][3], [tweenjs-1.0.2][4], [soundjs-1.0.1][5] and  [preloadjs-1.0.1][6] all files in their lib folder
+*   This package's current version is [1.0.21][2], included [easeljs-1.0.2][3], [tweenjs-1.0.2][4], [soundjs-1.0.1][5] and  [preloadjs-1.0.1][6] all files in their lib folder
 *   This package's version format is **a.a.aab**, the part of **a** is [CreateJS/EaselJS][1] 's version, the **b** part is this package's update version
 *   This package try to follow [CreateJS][7], hope  [CreateJS][7] can support NPM install in the future
 
@@ -45,7 +49,7 @@ var preload = new createjs.LoadQueue()
 ```
 
 [1]: https://github.com/CreateJS/EaselJS
-[2]: https://github.com/MIKUScallion/latest-createjs/tree/v1.0.2
+[2]: https://github.com/MIKUScallion/latest-createjs/tree/v1.0.21
 [3]: https://github.com/CreateJS/EaselJS/tree/v1.0.2
 [4]: https://github.com/CreateJS/TweenJS/tree/v1.0.2
 [5]: https://github.com/CreateJS/SoundJS/tree/v1.0.1
