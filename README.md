@@ -15,7 +15,7 @@ Install latest createJS by npm
 ## 关于版本
 
 *   本包版本跟随 [CreateJS/EaselJS][1]
-*   当前本包版本为 [1.0.2][2]，收录 [easeljs-1.0.2][3]、[tweenjs-1.0.2][4]、[soundjs-1.0.1][5] 及 [preloadjs-1.0.1][6] 的所有 lib 内容
+*   当前本包版本为 [1.0.21][2]，收录 [easeljs-1.0.2][3]、[tweenjs-1.0.2][4]、[soundjs-1.0.1][5] 及 [preloadjs-1.0.1][6] 的所有 lib 内容
 *   本包版本 **a.a.aab**，其中 **a** 部分为 [CreateJS/EaselJS][1] 的版本，**b** 部分为本包更新版本
 *   本包尽可能与 [CreateJS][7] 同步，期待以后 [CreateJS][7] 支持 NPM 安装
 
