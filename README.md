@@ -12,10 +12,6 @@ Install latest createJS by npm
 [![GitHub issues](https://img.shields.io/github/issues/MIKUScallion/latest-createjs.svg)](https://github.com/MIKUScallion/latest-createjs/issues)
 [![GitHub forks](https://img.shields.io/github/forks/MIKUScallion/latest-createjs.svg)](https://github.com/MIKUScallion/latest-createjs/network)
 
----
-
-
-
 ## Quick fix
 
 *   Fix [SoundJS's AbstractPlugin.js had a set method problem, At version 1.0.0](https://github.com/CreateJS/SoundJS/issues/281)
